@@ -97,7 +97,7 @@ Assigned Andrew Smith a Microsoft 365 Business Premium with Copilot licence in t
 
 ### 20. Configured shared mailbox permissions for the new user
 Navigated to the Exchange admin center to confirm and apply Andrew Smith's delegated Send As and Full Access permissions to the HR shared mailbox.
-![Shared mailbox permissions for Andrew Smith in Exchange admin center](screenshots/20-configure-shared-mailbox-permissions.jpg)
+![Shared mailbox permissions for Andrew Smith in Exchange admin center](screenshots/20-configure-shared-mailbox-permissions.png)
 
 ### 21–22. Replied to the onboarding ticket confirming setup
 Drafted and then sent a reply on the onboarding ticket confirming the account had been created, credentials stored securely, and access to the HR shared mailbox granted as requested.
