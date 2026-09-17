@@ -35,7 +35,7 @@ Created four user accounts and placed each into the correct department OU.
 
 ### 6\. Created a security group
 
-Set up the `Admission\_Team` security group and added the relevant user as a member, for group-based access control.
+Set up the `Admission_Team` security group and added the relevant user as a member, for group-based access control.
 ![Create security group](screenshots/06-create-security-group.png)
 
 ### 7\. Ran an Azure AD Connect delta sync
