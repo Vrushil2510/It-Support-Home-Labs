@@ -1,0 +1,2 @@
+# It-Support-Home-Labs
+Five hands-on IT support labs built in a self-hosted Windows Server environment — designing Active Directory OUs, managing Group Policy, setting up file and print servers, and syncing everything to Microsoft 365 through Entra ID. Built to practice real L1/L2 support tasks end-to-end, not just theory.
