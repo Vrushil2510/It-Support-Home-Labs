@@ -60,7 +60,7 @@ Confirmed all six users were active and licensed in the M365 admin center.
 
 ### 11\. Configured client DNS
 
-Pointed a client machine's static DNS to the domain controller so it could resolve the internal domain.
+Pointed a Harry H - HR client machine's static DNS to the domain controller so it could resolve the internal domain.
 ![Configure client DNS](screenshots/11-configure-client-dns.png)
 
 ### 12\. Joined the client to the domain
