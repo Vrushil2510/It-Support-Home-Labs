@@ -1,6 +1,5 @@
 # Project 1 – Active Directory OU Structure & Hybrid M365 Sync
 
-**Course:** Entry Level IT Support Home Lab Projects for L1/L2 Engineers (Udemy, Om Luitel)
 **Role simulated:** System Administrator
 **Environment:** Windows Server (AD DS) in VMware Workstation, hybrid-synced to Microsoft 365 / Entra ID
 
