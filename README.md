@@ -35,4 +35,4 @@ Every numbered folder contains its own `README.md` with:
 
 ## About me
 
-Final-semester Computer Science student based in Ontario, looking to bring hands-on infrastructure and support experience into an IT Support, Junior Sysadmin, or Software role.
+Final-semester Computer Science student based in Ontario, looking to bring hands-on infrastructure and support experience into an IT Support, Junior Sysadmin role, Service Desk Analyst, Desktop Support Technician, or Help Desk Support Specialist. 
