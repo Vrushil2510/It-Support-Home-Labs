@@ -4,7 +4,7 @@
 
 ## About this repository
 
-After completing my CompTIA A+ certification, I wanted practical, hands-on experience with the infrastructure that IT support and sysadmin teams actually manage day to day. I worked through *Entry Level IT Support Home Lab Projects for L1/L2 Engineers* by Om Luitel, rebuilding every lab myself in a virtualized Windows Server environment rather than just following along, then documented each project here.
+After my CompTIA A+ certification, I wanted something more concrete to point to than a certificate. So I built a home lab — a virtualized Windows Server environment — and worked through Active Directory, Group Policy, file/print servers, and M365 hybrid sync hands-on, documenting each project as I went.
 
 ## Projects
 
