@@ -1,1 +1,0 @@
-5 self-hosted Windows Server labs simulating real L1/L2 IT support work — Active Directory design, Group Policy, file/print servers, Microsoft 365 & Entra ID hybrid sync, and full-cycle service desk ticketing (Atera) from onboarding to offboarding. Every task documented with screenshots and a written walkthrough, built to show hands-on competency, not just theory.
